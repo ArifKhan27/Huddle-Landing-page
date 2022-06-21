@@ -204,7 +204,7 @@ footer a:not(:last-child) {
         padding: 10px 14px;
     }
 
-    footer a:first-child {
+    footer a:first-child { 
         padding-inline: 16px;
     }
 }
